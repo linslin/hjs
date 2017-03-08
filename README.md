@@ -1,7 +1,7 @@
 h-js
 =====
 
-[![NPM](https://nodei.co/npm/h-js.png?downloads=true&stars=true&time=1)](https://nodei.co/npm/h-js/)
+[![NPM](https://nodei.co/npm/h-js.png?downloads=true&stars=true&time=1&cache=1)](https://nodei.co/npm/h-js/)
 
 [Hogan.js](http://twitter.github.com/hogan.js/) NPM package for [express](http://expressjs.com/) 3.x
 Forked from https://github.com/nullfirm/hjs due to no support on the original repository. We promise to
