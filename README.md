@@ -50,7 +50,7 @@ support this package with all our goodness.
  Edit app.js :
 
 ```js
-app.set('view engine', 'h-js');
+app.set('view engine', 'hjs');
 ```
 
  Make views/index.hjs :
