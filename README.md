@@ -51,6 +51,7 @@ support this package with all our goodness.
 
 ```js
 app.set('view engine', 'hjs');
+app.engine('hjs', require('h-js').renderFile);
 ```
 
  Make views/index.hjs :
